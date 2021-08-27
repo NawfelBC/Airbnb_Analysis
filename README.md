@@ -1,3 +1,3 @@
 # Airbnb Data Analysis
 
-[Notebook](https://github.com/NawfelBC/Portfolio/blob/main/Data%20Analysis/Airbnb/airbnb.ipynb)
+[Notebook](https://github.com/NawfelBC/Airbnb_Analysis/blob/main/airbnb.ipynb)
